@@ -1,11 +1,11 @@
-#Fleet Manager 1.0
+# Fleet Manager 1.0
 
 
 This is a fleet managment solution.
 
 ## Getting this repo ##
 ```bash
-git clone git@github.com:gb1035/tornado_framework.git
+git clone git@github.com:terribleindustries/fleet_managment.git
 exit
 ```
 
